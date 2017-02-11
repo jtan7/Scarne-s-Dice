@@ -25,8 +25,7 @@
         android:layout_below="@id/image_dice"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_roll"
-        android:onClick="roll" />
+        android:text="@string/button_roll" />
     <Button android:id="@+id/button_hold"
         android:layout_toRightOf="@id/button_roll"
         android:layout_below="@id/image_dice"
